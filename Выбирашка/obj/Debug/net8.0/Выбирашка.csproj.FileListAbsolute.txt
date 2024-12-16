@@ -1,0 +1,14 @@
+S:\code\Выбирашка\Выбирашка\bin\Debug\net8.0\Выбирашка.exe
+S:\code\Выбирашка\Выбирашка\bin\Debug\net8.0\Выбирашка.deps.json
+S:\code\Выбирашка\Выбирашка\bin\Debug\net8.0\Выбирашка.runtimeconfig.json
+S:\code\Выбирашка\Выбирашка\bin\Debug\net8.0\Выбирашка.dll
+S:\code\Выбирашка\Выбирашка\bin\Debug\net8.0\Выбирашка.pdb
+S:\code\Выбирашка\Выбирашка\obj\Debug\net8.0\Выбирашка.GeneratedMSBuildEditorConfig.editorconfig
+S:\code\Выбирашка\Выбирашка\obj\Debug\net8.0\Выбирашка.AssemblyInfoInputs.cache
+S:\code\Выбирашка\Выбирашка\obj\Debug\net8.0\Выбирашка.AssemblyInfo.cs
+S:\code\Выбирашка\Выбирашка\obj\Debug\net8.0\Выбирашка.csproj.CoreCompileInputs.cache
+S:\code\Выбирашка\Выбирашка\obj\Debug\net8.0\Выбирашка.dll
+S:\code\Выбирашка\Выбирашка\obj\Debug\net8.0\refint\Выбирашка.dll
+S:\code\Выбирашка\Выбирашка\obj\Debug\net8.0\Выбирашка.pdb
+S:\code\Выбирашка\Выбирашка\obj\Debug\net8.0\Выбирашка.genruntimeconfig.cache
+S:\code\Выбирашка\Выбирашка\obj\Debug\net8.0\ref\Выбирашка.dll
